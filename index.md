@@ -1,7 +1,7 @@
 ## Welcome to hacky website
 
 First of all funny meme
-![useful image]({{ site.url }}/assets/image.png)
+![useful image]({{ site.url }}/dead.png)
 
 ### Myarkdown
 
