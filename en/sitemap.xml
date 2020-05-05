@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/posts/2020/05/do-you-care-about-privacy/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/posts/2020/05/dbasz-o-swoj%C4%85-prywatno%C5%9B%C4%87/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/posts/2020/05/do-you-care-about-privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/categories/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/posts/2020/05/how-to-understand-world/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/posts/2020/05/jak-zrozumie%C4%87-%C5%9Bwiat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/posts/2020/05/how-to-understand-world/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/tags/knowledge/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/categories/knowledge/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/categories/knowledge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/categories/knowledge/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/posts/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/tags/stats/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/tags/stats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/tags/stats/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/categories/stats/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/categories/stats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/categories/stats/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/tags/</loc>
+    <lastmod>2020-05-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pl"
+                href="https://lgrzegorek.github.io/pl/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lgrzegorek.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://lgrzegorek.github.io/about/</loc>
+    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+</urlset>

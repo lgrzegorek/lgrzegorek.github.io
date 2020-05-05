@@ -1,0 +1,50 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on IT Security blog</title>
+        <link>https://lgrzegorek.github.io/posts/</link>
+        <description>Recent content in Posts on IT Security blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://lgrzegorek.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Do you care about privacy?</title>
+            <link>https://lgrzegorek.github.io/posts/2020/05/do-you-care-about-privacy/</link>
+            <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://lgrzegorek.github.io/posts/2020/05/do-you-care-about-privacy/</guid>
+            <description>Introduction TL;DR
+https://thatoneprivacysite.net/
+https://www.privacytools.io/</description>
+            <content type="html"><![CDATA[<h2 id="introduction">Introduction</h2>
+<p>TL;DR</p>
+<p><a href="https://thatoneprivacysite.net/">https://thatoneprivacysite.net/</a></p>
+<p><a href="https://www.privacytools.io/">https://www.privacytools.io/</a></p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>How to understand world?</title>
+            <link>https://lgrzegorek.github.io/posts/2020/05/how-to-understand-world/</link>
+            <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+            
+            <guid>https://lgrzegorek.github.io/posts/2020/05/how-to-understand-world/</guid>
+            <description>Step 1. Search for best data website Go to Gap minder and take an easy test.
+Step 2. What is your score? I would bet some money on noone scored 13/13.
+Step 3. Use website to analyze reliable data. </description>
+            <content type="html"><![CDATA[<h2 id="step-1-search-for-best-data-website">Step 1. Search for best data website</h2>
+<p>Go to <a href="https://www.gapminder.org/">Gap minder</a> and take an <em><strong>easy</strong></em> <a href="http://forms.gapminder.org/s3/test-2018">test</a>.</p>
+<h2 id="step-2-what-is-your-score">Step 2. What is your score?</h2>
+<p>I would bet some money on noone scored 13/13.</p>
+<h2 id="step-3-use-website-to-analyze-reliable-data">Step 3. Use website to analyze reliable data.</h2>
+
+    <img src="/img/gapminder.png"  class="left"  />
+
+
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
