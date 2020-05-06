@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>knowledge on IT Security blog</title>
-    <link>https://lukaszgrzegorek.pl/pl/categories/knowledge/</link>
+    <link>https://lgrzegorek.github.io/pl/categories/knowledge/</link>
     <description>Recent content in knowledge on IT Security blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lukaszgrzegorek.pl/pl/categories/knowledge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lgrzegorek.github.io/pl/categories/knowledge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Jak zrozumieć świat?</title>
-      <link>https://lukaszgrzegorek.pl/pl/posts/2020/05/jak-zrozumie%C4%87-%C5%9Bwiat/</link>
+      <link>https://lgrzegorek.github.io/pl/posts/2020/05/jak-zrozumie%C4%87-%C5%9Bwiat/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lukaszgrzegorek.pl/pl/posts/2020/05/jak-zrozumie%C4%87-%C5%9Bwiat/</guid>
+      <guid>https://lgrzegorek.github.io/pl/posts/2020/05/jak-zrozumie%C4%87-%C5%9Bwiat/</guid>
       <description>Krok 1. Sprawdź co wiesz o obecnej sytuacji na świecie Wejdź na Gap minder i sprawdź się w prostym teście.
 Krok 2. Jaki masz wynik? Prawdopodobnie nie masz 13/13.
 Krok 3. Odkrywaj stronę jako rzetelne źródło danych o świecie. </description>

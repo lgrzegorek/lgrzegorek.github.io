@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>IT Security blog</title>
-    <link>https://lukaszgrzegorek.pl/</link>
+    <link>https://lgrzegorek.github.io/</link>
     <description>Recent content on IT Security blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://lukaszgrzegorek.pl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lgrzegorek.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Do you care about privacy?</title>
-      <link>https://lukaszgrzegorek.pl/posts/2020/05/do-you-care-about-privacy/</link>
+      <link>https://lgrzegorek.github.io/posts/2020/05/do-you-care-about-privacy/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lukaszgrzegorek.pl/posts/2020/05/do-you-care-about-privacy/</guid>
+      <guid>https://lgrzegorek.github.io/posts/2020/05/do-you-care-about-privacy/</guid>
       <description>Introduction TL;DR
 https://thatoneprivacysite.net/
 https://www.privacytools.io/</description>
@@ -25,10 +25,10 @@ https://www.privacytools.io/</description>
     
     <item>
       <title>How to understand world?</title>
-      <link>https://lukaszgrzegorek.pl/posts/2020/05/how-to-understand-world/</link>
+      <link>https://lgrzegorek.github.io/posts/2020/05/how-to-understand-world/</link>
       <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://lukaszgrzegorek.pl/posts/2020/05/how-to-understand-world/</guid>
+      <guid>https://lgrzegorek.github.io/posts/2020/05/how-to-understand-world/</guid>
       <description>Step 1. Search for best data website Go to Gap minder and take an easy test.
 Step 2. What is your score? I would bet some money on noone scored 13/13.
 Step 3. Use website to analyze reliable data. </description>
@@ -36,10 +36,10 @@ Step 3. Use website to analyze reliable data. </description>
     
     <item>
       <title>whoami</title>
-      <link>https://lukaszgrzegorek.pl/about/</link>
+      <link>https://lgrzegorek.github.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://lukaszgrzegorek.pl/about/</guid>
+      <guid>https://lgrzegorek.github.io/about/</guid>
       <description>cybersec beginner. 👨‍🦯
 cats &amp;amp; donkeys enthusiast. 😼 🐴
 📩	grzegorek.lukasz@gmail.com
